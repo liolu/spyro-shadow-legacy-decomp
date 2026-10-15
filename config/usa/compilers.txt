@@ -1,2 +1,52 @@
 # Source files built with another compiler than tools/configure.py MWCC_VERSION
 # <source path> <mwccarm version> [extra flags]
+src/donor/func_02000900.c 2.0/sp1p5
+src/donor/func_02000914.c 2.0/sp1p5
+src/donor/func_020009b8.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
+src/donor/func_02003720.c 2.0/sp1p5
+src/donor/func_020041e0.c 2.0/sp1p5
+src/donor/func_020041f4.c 2.0/sp1p5
+src/donor/func_02004278.c 2.0/sp1p5
+src/donor/func_02004294.c 2.0/sp1p5
+src/donor/func_020057e4.c 2.0/sp1p5
+src/donor/func_02005b34.c 2.0/sp1p5
+src/donor/func_02005c1c.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_02005cb0.c 2.0/sp1p5
+src/donor/func_02005d5c.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_020062a0.c 2.0/sp1p5
+src/donor/func_020062b0.c 2.0/sp1p5
+src/donor/func_020062c0.c 2.0/sp1p5
+src/donor/func_020062d0.c 2.0/sp1p5
+src/donor/func_020062e0.c 2.0/sp1p5
+src/donor/func_02006ef4.c 1.2/sp2p3
+src/donor/func_0200712c.c 1.2/sp2p3
+src/donor/func_02007144.c 2.0/sp1p5
+src/donor/func_020071e8.c 1.2/sp2p3
+src/donor/func_02007200.c 2.0/sp1p5
+src/donor/func_02007d4c.c 1.2/sp2p3
+src/donor/func_02007d78.c 1.2/sp2p3
+src/donor/func_020081d8.c 2.0/sp1p5
+src/donor/func_020091c0.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_02009384.c 2.0/sp1p5
+src/donor/func_02009394.c 2.0/sp1p5
+src/donor/func_0200af08.c 2.0/sp1p5
+src/donor/func_0200af18.c 2.0/sp1p5
+src/donor/func_0200b21c.c 1.2/sp2p3
+src/donor/func_0200b650.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
+src/donor/func_0200bd20.c 2.0/sp1p5
+src/donor/func_0200bd38.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_0200c234.c 1.2/sp2p3
+src/donor/func_0200c258.c 2.0/sp1p5
+src/donor/func_0200c268.c 1.2/sp2p3
+src/donor/func_0200c358.c 1.2/sp2p3
+src/donor/func_0200c374.c 1.2/sp2p3
+src/donor/func_0200e7c0.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
+src/donor/func_0200fa7c.c 1.2/sp2p3
+src/donor/func_0200fb2c.c 1.2/sp2p3
+src/donor/func_0200fb48.c 1.2/sp2p3
+src/donor/func_0200fcc0.c 2.0/sp1p5
+src/donor/func_0200fcd0.c 2.0/sp1p5
+src/donor/func_0200feec.c 2.0/sp1p5
+src/donor/func_0200fef8.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
+src/donor/func_02011b88.c 2.0/sp1p5
+src/donor/func_02011b98.c 2.0/sp1p5
