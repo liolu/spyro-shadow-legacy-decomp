@@ -19,6 +19,10 @@ src/donor/func_020009b8.c:
     complete
     .text       start:0x020009b8 end:0x02000a10
 
+src/nitro/init/module_params.c:
+    complete
+    .text       start:0x02000b00 end:0x02000b24
+
 src/donor/func_02003720.c:
     complete
     .text       start:0x02003720 end:0x02003738
