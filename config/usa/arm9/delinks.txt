@@ -6868,3 +6868,87 @@ src/auto/func_02019e50.c:
 src/auto/func_02093378.c:
     complete
     .text       start:0x02093378 end:0x020933a8
+
+src/auto/func_02084f98.c:
+    complete
+    .text       start:0x02084f98 end:0x02084fc8
+
+src/auto/func_02082208.c:
+    complete
+    .text       start:0x02082208 end:0x02082214
+
+src/auto/func_02059690.c:
+    complete
+    .text       start:0x02059690 end:0x0205969c
+
+src/auto/func_02038b1c.c:
+    complete
+    .text       start:0x02038b1c end:0x02038b28
+
+src/auto/func_0200384c.c:
+    complete
+    .text       start:0x0200384c end:0x02003890
+
+src/auto/func_020037ec.c:
+    complete
+    .text       start:0x020037ec end:0x0200384c
+
+src/auto/func_02059980.c:
+    complete
+    .text       start:0x02059980 end:0x020599ec
+
+src/auto/func_02059a10.c:
+    complete
+    .text       start:0x02059a10 end:0x02059a84
+
+src/auto/func_020a5a30.c:
+    complete
+    .text       start:0x020a5a30 end:0x020a5a9c
+
+src/auto/func_0202a1c8.c:
+    complete
+    .text       start:0x0202a1c8 end:0x0202a244
+
+src/auto/func_02008130.c:
+    complete
+    .text       start:0x02008130 end:0x020081d8
+
+src/auto/func_0200f5b0.c:
+    complete
+    .text       start:0x0200f5b0 end:0x0200f65c
+
+src/auto/func_0200e828.c:
+    complete
+    .text       start:0x0200e828 end:0x0200e904
+
+src/auto/func_020752e4.c:
+    complete
+    .text       start:0x020752e4 end:0x02075420
+
+src/auto/func_0204f648.c:
+    complete
+    .text       start:0x0204f648 end:0x0204f790
+
+src/auto/func_02076eac.c:
+    complete
+    .text       start:0x02076eac end:0x02077010
+
+src/auto/func_02007708.c:
+    complete
+    .text       start:0x02007708 end:0x020077c4
+
+src/auto/func_0201b820.c:
+    complete
+    .text       start:0x0201b820 end:0x0201b848
+
+src/auto/func_0204297c.c:
+    complete
+    .text       start:0x0204297c end:0x02042a48
+
+src/auto/func_02081e38.c:
+    complete
+    .text       start:0x02081e38 end:0x02081e78
+
+src/auto/func_02094778.c:
+    complete
+    .text       start:0x02094778 end:0x02094838
