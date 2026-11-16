@@ -6844,3 +6844,27 @@ src/auto/func_020a560c.c:
 src/auto/func_020a73f8.c:
     complete
     .text       start:0x020a73f8 end:0x020a743c
+
+src/auto/func_02040378.c:
+    complete
+    .text       start:0x02040378 end:0x020403c0
+
+src/auto/func_0204ff40.c:
+    complete
+    .text       start:0x0204ff40 end:0x0204ff88
+
+src/auto/func_0206264c.c:
+    complete
+    .text       start:0x0206264c end:0x02062694
+
+src/auto/func_02012aa4.c:
+    complete
+    .text       start:0x02012aa4 end:0x02012b14
+
+src/auto/func_02019e50.c:
+    complete
+    .text       start:0x02019e50 end:0x02019f58
+
+src/auto/func_02093378.c:
+    complete
+    .text       start:0x02093378 end:0x020933a8

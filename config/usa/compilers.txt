@@ -984,3 +984,9 @@ src/auto/func_0209ea20.c 1.2/sp2p3
 src/auto/func_020a5320.c 1.2/sp2p3
 src/auto/func_020a560c.c 1.2/sp2p3
 src/auto/func_020a73f8.c 1.2/sp2p3
+src/auto/func_02040378.c 1.2/sp2p3
+src/auto/func_0204ff40.c 1.2/sp2p3
+src/auto/func_0206264c.c 1.2/sp2p3
+src/auto/func_02012aa4.c 1.2/sp2p3 -O4,s
+src/auto/func_02019e50.c 1.2/sp2p3 -O4,s
+src/auto/func_02093378.c 1.2/sp2p3 -O4,s
