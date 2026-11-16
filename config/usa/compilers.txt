@@ -1043,3 +1043,11 @@ src/auto/func_020821b4.c 1.2/sp2p3
 src/auto/func_02082460.c 1.2/sp2p3
 src/auto/func_020824b4.c 1.2/sp2p3
 src/auto/func_0208327c.c 1.2/sp2p3
+src/auto/func_020088e4.c 1.2/sp2p3
+src/auto/func_02008950.c 1.2/sp2p3
+src/auto/func_020089c0.c 1.2/sp2p3
+src/auto/func_0200917c.c 1.2/sp2p3
+src/auto/func_0200a188.c 1.2/sp2p3
+src/auto/func_0200eef8.c 1.2/sp2p3
+src/auto/func_0200f65c.c 1.2/sp2p3
+src/auto/func_0200f8ec.c 1.2/sp2p3
